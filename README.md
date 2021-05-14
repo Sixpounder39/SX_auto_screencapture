@@ -1,6 +1,6 @@
 # SX_auto_screencapture
 
-Programa en Python que permite la automatización de captura de pantalla. Con 5 diferentes maneras de captura, diseñado para entornos windows.
+Programa en Python que permite la automatización de captura de pantalla. Con 5 diferentes maneras de captura, diseñado para entornos windows. // Respaldo de mi cuenta anterior
 
 El repositorio cuenta con la versión de código libre "SX_Capture_screen" y empaquetado para uso en windows "SX_Generador_screenshots_empaquetado".
 
